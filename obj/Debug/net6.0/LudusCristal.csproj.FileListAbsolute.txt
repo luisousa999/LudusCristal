@@ -1,0 +1,15 @@
+/home/luisousa/Desktop/LudusCristal/bin/Debug/net6.0/LudusCristal
+/home/luisousa/Desktop/LudusCristal/bin/Debug/net6.0/LudusCristal.deps.json
+/home/luisousa/Desktop/LudusCristal/bin/Debug/net6.0/LudusCristal.runtimeconfig.json
+/home/luisousa/Desktop/LudusCristal/bin/Debug/net6.0/LudusCristal.dll
+/home/luisousa/Desktop/LudusCristal/bin/Debug/net6.0/LudusCristal.pdb
+/home/luisousa/Desktop/LudusCristal/obj/Debug/net6.0/LudusCristal.csproj.AssemblyReference.cache
+/home/luisousa/Desktop/LudusCristal/obj/Debug/net6.0/LudusCristal.GeneratedMSBuildEditorConfig.editorconfig
+/home/luisousa/Desktop/LudusCristal/obj/Debug/net6.0/LudusCristal.AssemblyInfoInputs.cache
+/home/luisousa/Desktop/LudusCristal/obj/Debug/net6.0/LudusCristal.AssemblyInfo.cs
+/home/luisousa/Desktop/LudusCristal/obj/Debug/net6.0/LudusCristal.csproj.CoreCompileInputs.cache
+/home/luisousa/Desktop/LudusCristal/obj/Debug/net6.0/LudusCristal.dll
+/home/luisousa/Desktop/LudusCristal/obj/Debug/net6.0/refint/LudusCristal.dll
+/home/luisousa/Desktop/LudusCristal/obj/Debug/net6.0/LudusCristal.pdb
+/home/luisousa/Desktop/LudusCristal/obj/Debug/net6.0/LudusCristal.genruntimeconfig.cache
+/home/luisousa/Desktop/LudusCristal/obj/Debug/net6.0/ref/LudusCristal.dll
