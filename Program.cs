@@ -24,8 +24,6 @@ namespace LudusCristal
             int[] jogadasRealizadas = new int[10];
             Array.Fill(jogadasRealizadas, -1);
 
-            //digo o nmro de vezes que repito o ciclo com o nmro de jogadas
-            //tenho que fazer moneytotal-jogada1 = j1; j1-jogada2 = j2; ...
             
             //Se o nmro de Jogadas for 1, o ganho tem de ser obrigatoriamente igual ao valor gerado
             if(nmrJogadas == 1)
