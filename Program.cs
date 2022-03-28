@@ -64,7 +64,7 @@ namespace LudusCristal
                     Console.WriteLine("Array[0] = " + jogadasRealizadas[0] + "\t Array[1] = " + jogadasRealizadas[1]);
                 }
             }
-            else
+            else // 3 tentativas
             {
                 int valorGerado1 = 0;
                 int valorGerado2 = 0;
