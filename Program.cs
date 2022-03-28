@@ -80,6 +80,7 @@ namespace LudusCristal
 
                 totalRestante -= valorGerado1;
 
+                //vai permitir que o segundo nmro seja sempre do nivel 1
                 if(totalRestante <= 20)
                 {
                     valorGerado2 = generator.RandomNumber(1,(totalRestante-1));
